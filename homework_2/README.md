@@ -1,4 +1,4 @@
-### ДЗ 1:
+### ДЗ 1 **[LINK](homework_2/task1/)**
 Написати функцію 'isAllTrue', яка приймає 2 параметра - 'source' і 'filterFn'
 source - масив
 'FilterFn' - фільтруюча функція
@@ -22,7 +22,7 @@ console.log (isAllTrue (noNumbers, isNumber)); // поверне false
 Викидати і обробляти виключення, якщо в 'source' порожній масив.
 
 
-### ДЗ - 2
+### ДЗ - 2 **[LINK](homework_2/task2/someTrue.js)**
 Написати фукнции 'isSomeTrue', яка приймає 2 параметра - 'source' і 'filterFn'
 'Source' - масив
 'FilterFn' - фільтруюча функція
@@ -39,7 +39,7 @@ console.log (isSomeTrue (someNumbers, isNumber)); // поверне true
 console.log (isSomeTrue (noNumbers, isNumber)); // поверне false
 ```
 
-### ДЗ 3 (із зірочкою)
+### ДЗ 3 (із зірочкою) **[LINK](homework_2/task3/calculator.js)**
 Написати функцію 'calculator' (у вигляді модуля), яка має один параметр - 'firstNumber'
 'FirstNumber' - це число, з яким будуть проводитися дії
 Функція 'calculator' повинна повертати об'єкт, у якого повинно бути кілька функцій.
